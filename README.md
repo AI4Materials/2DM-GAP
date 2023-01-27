@@ -11,4 +11,5 @@ Here we provide Gaussian Approximation Potentials and training and validation da
 
 ## Citation
 Please cite the following paper if you use the potentials or the data sets in this repository.
-- xxx
+- Kocabaş T, Keçeli M, Vázquez-Mayagoitia Á, Sevik C. Gaussian Approximation Potentials for Accurate Thermal
+Properties of Two-Dimensional Materials. ChemRxiv. 2023; https://doi.org/10.26434/chemrxiv-2023-2xkpc
