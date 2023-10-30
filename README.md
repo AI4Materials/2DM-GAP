@@ -17,5 +17,6 @@ You can read about how the data and GAP models were generated in our [preprint](
 
 ## Citation
 If you use the potentials or the data sets in this repository, please cite the following paper:
-- Kocabaş T, Keçeli M, Vázquez-Mayagoitia Á, Sevik C. Gaussian Approximation Potentials for Accurate Thermal
-Properties of Two-Dimensional Materials. ChemRxiv. 2023; https://doi.org/10.26434/chemrxiv-2023-2xkpc
+- Kocabaş T, Keçeli M, Vázquez-Mayagoitia Á, & Sevik C. Gaussian Approximation Potentials for Accurate Thermal
+Properties of Two-Dimensional Materials. Nanoscale, 15(19), 8772–8780. https://doi.org/10.1039/d3nr00399j
+(Preprint available in ChemRxiv. https://doi.org/10.26434/chemrxiv-2023-2xkpc)
